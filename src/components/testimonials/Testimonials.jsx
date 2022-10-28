@@ -3,7 +3,6 @@ import './testimonials.css'
 import AVTR1 from '../../assets/img/avatar1.jpg'
 import AVTR2 from '../../assets/img/avatar2.jpg'
 import AVTR3 from '../../assets/img/avatar3.jpg'
-import AVTR4 from '../../assets/img/avatar4.jpg'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio-website/static/css/main.e35272f2.css",
-    "main.js": "/react-portfolio-website/static/js/main.c72ce8af.js",
-    "static/media/portfolio5.png": "/react-portfolio-website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/me.png": "/react-portfolio-website/static/media/me.dfc74cb680e317d5c240.png",
-    "static/media/portfolio2.jpg": "/react-portfolio-website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/react-portfolio-website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/react-portfolio-website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/react-portfolio-website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/react-portfolio-website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/me-about.jpg": "/react-portfolio-website/static/media/me-about.100703dc97dca8cebe4b.jpg",
-    "static/media/cv.pdf": "/react-portfolio-website/static/media/cv.e83747cf513e0b21a7f1.pdf",
-    "index.html": "/react-portfolio-website/index.html",
-    "main.e35272f2.css.map": "/react-portfolio-website/static/css/main.e35272f2.css.map",
-    "main.c72ce8af.js.map": "/react-portfolio-website/static/js/main.c72ce8af.js.map"
+    "main.css": "/lucaslucenak.github.io/static/css/main.e35272f2.css",
+    "main.js": "/lucaslucenak.github.io/static/js/main.b8011cc2.js",
+    "static/media/portfolio5.png": "/lucaslucenak.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me.png": "/lucaslucenak.github.io/static/media/me.dfc74cb680e317d5c240.png",
+    "static/media/portfolio2.jpg": "/lucaslucenak.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/lucaslucenak.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/lucaslucenak.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/lucaslucenak.github.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/lucaslucenak.github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/me-about.jpg": "/lucaslucenak.github.io/static/media/me-about.100703dc97dca8cebe4b.jpg",
+    "static/media/cv.pdf": "/lucaslucenak.github.io/static/media/cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/lucaslucenak.github.io/index.html",
+    "main.e35272f2.css.map": "/lucaslucenak.github.io/static/css/main.e35272f2.css.map",
+    "main.b8011cc2.js.map": "/lucaslucenak.github.io/static/js/main.b8011cc2.js.map"
   },
   "entrypoints": [
     "static/css/main.e35272f2.css",
-    "static/js/main.c72ce8af.js"
+    "static/js/main.b8011cc2.js"
   ]
 }

@@ -1,5 +1,5 @@
 # Personal Web Portfolio - React
-![Banner](src\assets\img\readme\header.png)
+![Banner](/src/assets/img/readme/header.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deploy access
@@ -10,25 +10,25 @@ You can access the live project at [Netlify Deploy](https://lucas-lucena-portfol
 ## Portfolio Sections
 
 ### Header Section
-![Header](src\assets\img\readme\header.png)
+![Header](/src/assets/img/readme/header.png)
 
 ### About Section
-![Header](src\assets\img\readme\aboutme.png)
+![Header](/src/assets/img/readme/aboutme.png)
 
 ### Experience Section
-![Header](src\assets\img\readme\experience.png)
+![Header](/src/assets/img/readme/experience.png)
 
 ### Professional Section
-![Header](src\assets\img\readme\professional.png)
+![Header](src/assets/img/readme/professional.png)
 
 ### Portfolio Section
-![Header](src\assets\img\readme\portfolio.png)
+![Header](src/assets\img/readme/portfolio.png)
 
 ### Testimonials Section
-![Header](src\assets\img\readme\testimonials.png)
+![Header](src/assets\img/readme/testimonials.png)
 
 ### Contact Me Section
-![Header](src\assets\img\readme\contactme.png)
+![Header](src/assets/img/readme/contactme.png)
 
 ## Available Scripts
 

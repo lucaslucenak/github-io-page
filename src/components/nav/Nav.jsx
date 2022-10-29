@@ -7,6 +7,7 @@ import {BiBook} from 'react-icons/bi'
 import {BiMessageSquareDetail} from 'react-icons/bi'
 import {MdWork} from 'react-icons/md'
 import {useState} from 'react'
+import {GrGroup} from 'react-icons/gr'
 
 
 const Nav = () => {
@@ -18,6 +19,7 @@ const Nav = () => {
       <a href="#experience" onClick={() => setActiveNav('#experience')} className={activeNav === '#experience' ? 'active' : ''}><BiBook/></a>
       <a href="#professional" onClick={() => setActiveNav('#professional')} className={activeNav === '#professional' ? 'active' : ''}><MdWork/></a>
       <a href="#portfolio" onClick={() => setActiveNav('#portfolio')} className={activeNav === '#portfolio' ? 'active' : ''}><GrProjects/></a>
+      <a href="#testimonials" onClick={() => setActiveNav('#testimonials')} className={activeNav === '#testimonials' ? 'active' : ''}><GrGroup/></a>
       {/* <a href="#services" onClick={() => setActiveNav('#services')} className={activeNav === '#services' ? 'active' : ''}><RiServiceLine/></a> */}
       <a href="#contact" onClick={() => setActiveNav('#contact')} className={activeNav === '#contact' ? 'active' : ''}><BiMessageSquareDetail/></a>
     </nav>

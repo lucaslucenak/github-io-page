@@ -23,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>1+ Years Working</small>
+              <small>1 Year Working</small>
             </article>
 
             <article className="about__card">
@@ -35,16 +35,20 @@ const About = () => {
             <article className="about__card">
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>10+ Completed</small>
+              <small>6+ Completed</small>
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac pharetra mi, vitae sagittis nulla.
-             Integer dolor enim, rhoncus in consectetur quis, mattis eu lorem. Ut tempus, libero a suscipit fermentum,
-              justo est pulvinar neque, ut maximus nisl mauris sed dui. In hac habitasse platea dictumst.
-               Pellentesque sed auctor lacus. Mauris molestie dapibus lorem non consequat.</p>
+          <p align= 'justify'>When I was 12 I decided to be a developer. Since I was a child, had a lot of affinity with
+            technology,
+            I used to assemble and disassemble computers, watch videos about how software and hardware technologies
+            works "under the hood".
+            At 18 started to study Computer Science in State University of Paraíba convinced that this was the way that
+            a want do take,
+            and with each new thing I learn I get even more sure of this decision! Programming and learning new things
+            became leisure for me, not exactly a job.</p>
 
-               <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>

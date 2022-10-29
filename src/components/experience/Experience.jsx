@@ -18,7 +18,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Java</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">2+ Years</small> */}
               </div>
             </article>
 
@@ -26,7 +26,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Spring Boot</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">1 Year</small> */}
               </div>
             </article>
 
@@ -34,7 +34,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">1 Year</small> */}
               </div>
             </article>
 
@@ -42,7 +42,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Selenium</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">1 Year</small> */}
               </div>
             </article>
 
@@ -50,7 +50,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>PostgreSQL</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">1 Year</small> */}
               </div>
             </article>
 
@@ -58,7 +58,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>MySQL</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">1 Year</small> */}
               </div>
             </article>
 
@@ -74,7 +74,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>SOLID</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
 
@@ -82,7 +82,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>GoF</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
 
@@ -90,7 +90,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>GRASP</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
 
@@ -98,7 +98,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Git</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
 
@@ -106,7 +106,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>GitHub</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
 
@@ -114,7 +114,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Heroku</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
 

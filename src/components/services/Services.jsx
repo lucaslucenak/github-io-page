@@ -11,7 +11,7 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>API Development</h3>
+            <h3>Backend Knowledge</h3>
           </div>
 
           <ul className="service__list">
@@ -35,7 +35,7 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Process Automations</h3>
+            <h3>Kind of projects with experience</h3>
           </div>
 
           <ul className="service__list">

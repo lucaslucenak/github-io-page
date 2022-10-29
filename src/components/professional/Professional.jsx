@@ -4,6 +4,7 @@ import {BsPatchCheckFill} from 'react-icons/bs'
 import {BsCalendarWeek} from 'react-icons/bs'
 import {MdGrade} from 'react-icons/md'
 import {GiTimeBomb} from 'react-icons/gi'
+import {BiLink} from 'react-icons/bi'
 
 const Professional = () => {
   return (
@@ -39,7 +40,7 @@ const Professional = () => {
               <div>
                 <h4>Stade University of Paraíba | Java Monitor</h4>
                 <small className="text-light"><BsCalendarWeek/> DEZ 2021 - JUL 2022</small><br />
-                <small className="text-light"><BsPatchCheckFill/> Assistance to the students of Programming Language II with Java</small><br />
+                <small className="text-light"><BsPatchCheckFill/> Assistance to the students of Programming Language II with Java;</small><br />
                 <small className="text-light"><BsPatchCheckFill/> Assistance to the teacher in classes and activities administration;</small><br />
               </div>
             </article>
@@ -70,6 +71,21 @@ const Professional = () => {
                 <h4>Gastronomy Technical | CEPED</h4>
                 <small className="text-light"><BsCalendarWeek/> ABR 2020 - MAI 2020</small><br />
                 <small className="text-light"><MdGrade/> Final Grade: 9.3</small><br />
+              </div>
+            </article>
+          </div>
+
+          <div className="professional__content">
+            <article className="professional__details">
+              <BsPatchCheckFill className='professional__details-icon' />
+              <div>
+                <h4>Courses and Certifications</h4>
+                <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Scrum Fundamentals Certfied</a></small><br />
+                <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Basic to Advanced SQL (with MySQL)</a></small><br />
+                <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Advenced Java</a></small><br />
+                <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Spring React Week</a></small><br />
+                <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Git and Github</a></small><br />
+                <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Introduction to HTML5 and CSS3</a></small><br />
               </div>
             </article>
           </div>

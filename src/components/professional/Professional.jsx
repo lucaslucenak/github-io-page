@@ -8,7 +8,7 @@ import {BiLink} from 'react-icons/bi'
 
 const Professional = () => {
   return (
-    <section id="Professional">
+    <section id="professional">
       <h5>My Professional Trajectory</h5>
       <h2>Professional and Educational</h2>
 

@@ -25,9 +25,9 @@ const Footer = () => {
         <a href="https://www.instagram.com/lucaslucenak/"><BsInstagram/></a>
       </div>
 
-      <div className="footer__copyright">
+      {/* <div className="footer__copyright">
         <small>&copy; EGATOR Tutorials. All rights reserved.</small>
-      </div>
+      </div> */}
     </footer>
   )
 }

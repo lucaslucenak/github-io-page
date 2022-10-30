@@ -19,16 +19,16 @@ You can access the live project at [Netlify Deploy](https://lucas-lucena-portfol
 ![Header](/src/assets/img/readme/experience.png)
 
 ### Professional Section
-![Header](src/assets/img/readme/professional.png)
+![Header](/src/assets/img/readme/professional.png)
 
 ### Portfolio Section
-![Header](src/assets\img/readme/portfolio.png)
+![Header](/src/assets/img/readme/portfolio.png)
 
 ### Testimonials Section
-![Header](src/assets\img/readme/testimonials.png)
+![Header](/src/assets/img/readme/testimonials.png)
 
 ### Contact Me Section
-![Header](src/assets/img/readme/contactme.png)
+![Header](/src/assets/img/readme/contactme.png)
 
 ## Available Scripts
 

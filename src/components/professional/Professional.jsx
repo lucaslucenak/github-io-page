@@ -82,7 +82,7 @@ const Professional = () => {
                 <h4>Courses and Certifications</h4>
                 <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Scrum Fundamentals Certfied</a></small><br />
                 <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Basic to Advanced SQL (with MySQL)</a></small><br />
-                <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Advenced Java</a></small><br />
+                <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Advanced Java</a></small><br />
                 <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Spring React Week</a></small><br />
                 <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Git and Github</a></small><br />
                 <small className="text-light"><BiLink/> <a href="https://docs.google.com/document/d/1t35cETEqr5aKLy1kWIZv3_Ba8Ddrb0sClf08w8mzssk/">Introduction to HTML5 and CSS3</a></small><br />

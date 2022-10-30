@@ -19,7 +19,7 @@ const data = [
     {
       id: 2,
       image: IMG3,
-      title: 'Where Have I Stoped',
+      title: 'Where Have I Stopped',
       github: 'https://github.com/lucaslucenak/where-have-i-stopped',
       demo: 'https://github.com/'
     },

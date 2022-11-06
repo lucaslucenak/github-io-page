@@ -7,6 +7,7 @@ import IMG4 from '../../assets/img/portfolio/projeto6.png'
 import IMG5 from '../../assets/img/portfolio/projeto12.png'
 import IMG6 from '../../assets/img/portfolio/projeto7.png'
 import IMG7 from '../../assets/img/portfolio/projeto14.png'
+import IMG8 from '../../assets/img/portfolio/projeto15.png'
 
 const data = [
     {
@@ -32,20 +33,27 @@ const data = [
     },
     {
       id: 4,
+      image: IMG8,
+      title: 'Simple React-Spring CRUD',
+      github: 'https://github.com/lucaslucenak/simple-react-spring-crud',
+      demo: 'https://github.com/'
+    },
+    {
+      id: 5,
       image: IMG3,
       title: 'Where Have I Stopped',
       github: 'https://github.com/lucaslucenak/where-have-i-stopped',
       demo: 'https://github.com/'
     },
     {
-      id: 5,
+      id: 6,
       image: IMG4,
       title: 'System Digital Certificate Validity',
       github: 'https://github.com/lucaslucenak/check-validity-of-digital-certificates',
       demo: 'https://github.com/'
     },
     {
-      id: 6,
+      id: 7,
       image: IMG6,
       title: 'University Projects',
       github: 'https://github.com/lucaslucenak/cc-UEPB',

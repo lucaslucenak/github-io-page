@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/img/portfolio/projeto9.png'
+import IMG1 from '../../assets/img/portfolio/projeto13.png'
 import IMG2 from '../../assets/img/portfolio/projeto8.png'
 import IMG3 from '../../assets/img/portfolio/projeto11.png'
 import IMG4 from '../../assets/img/portfolio/projeto6.png'
@@ -12,8 +12,8 @@ const data = [
     {
       id: 1,
       image: IMG1,
-      title: 'GitHub',
-      github: 'https://github.com/lucaslucenak?tab=repositories',
+      title: 'Rest Spring API',
+      github: 'https://github.com/lucaslucenak/rest-api-spring',
       demo: 'https://github.com/'
     },
     {

@@ -59,7 +59,7 @@ const Professional = () => {
                 <h4>Computer Science Bachelor | Stade University of Paraíba</h4>
                 <small className="text-light"><BsCalendarWeek/> FEV 2020 - NOV 2023</small><br />
                 <small className="text-light"><GiTimeBomb/> 6° Semester of 8</small><br />
-                <small className="text-light"><MdGrade/> C.R.A: 9.09</small><br />
+                <small className="text-light"><MdGrade/> C.R.A: 9.03</small><br />
               </div>
             </article>
           </div>

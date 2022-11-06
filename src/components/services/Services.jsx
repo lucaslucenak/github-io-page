@@ -17,17 +17,17 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p>API Development</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p>Rotine Process Automation</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p>Problem Solving</p>
             </li>
           </ul>
         </article>

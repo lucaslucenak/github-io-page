@@ -6,7 +6,7 @@ import IMG3 from '../../assets/img/portfolio/projeto11.png'
 import IMG4 from '../../assets/img/portfolio/projeto6.png'
 import IMG5 from '../../assets/img/portfolio/projeto12.png'
 import IMG6 from '../../assets/img/portfolio/projeto7.png'
-
+import IMG7 from '../../assets/img/portfolio/projeto14.png'
 
 const data = [
     {
@@ -18,27 +18,34 @@ const data = [
     },
     {
       id: 2,
-      image: IMG3,
-      title: 'Where Have I Stopped',
-      github: 'https://github.com/lucaslucenak/where-have-i-stopped',
+      image: IMG7,
+      title: 'Spring Mail Microservice',
+      github: 'https://github.com/lucaslucenak/tecline-os-system-mail',
       demo: 'https://github.com/'
     },
     {
       id: 3,
-      image: IMG4,
-      title: 'System Digital Certificate Validity',
-      github: 'https://github.com/lucaslucenak/check-validity-of-digital-certificates',
-      demo: 'https://github.com/'
-    },
-    {
-      id: 4,
       image: IMG5,
       title: 'School Management API',
       github: 'https://github.com/lucaslucenak/school-management',
       demo: 'https://github.com/'
     },
     {
+      id: 4,
+      image: IMG3,
+      title: 'Where Have I Stopped',
+      github: 'https://github.com/lucaslucenak/where-have-i-stopped',
+      demo: 'https://github.com/'
+    },
+    {
       id: 5,
+      image: IMG4,
+      title: 'System Digital Certificate Validity',
+      github: 'https://github.com/lucaslucenak/check-validity-of-digital-certificates',
+      demo: 'https://github.com/'
+    },
+    {
+      id: 6,
       image: IMG6,
       title: 'University Projects',
       github: 'https://github.com/lucaslucenak/cc-UEPB',

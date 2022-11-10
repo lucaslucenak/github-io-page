@@ -8,13 +8,14 @@ import IMG5 from '../../assets/img/portfolio/projeto12.png'
 import IMG6 from '../../assets/img/portfolio/projeto7.png'
 import IMG7 from '../../assets/img/portfolio/projeto14.png'
 import IMG8 from '../../assets/img/portfolio/projeto15.png'
+import IMG9 from '../../assets/img/portfolio/projeto16.png'
 
 const data = [
     {
       id: 1,
       image: IMG1,
       title: 'Rest Spring API',
-      github: 'https://github.com/lucaslucenak/rest-api-spring',
+      github: 'https://github.com/lucaslucenak/api-sea-of-thieves',
       demo: 'https://github.com/'
     },
     {
@@ -68,6 +69,13 @@ const dataWithDemo = [
     title: 'Dashboard with Spring and React',
     github: 'https://github.com/lucaslucenak/projeto-sds3',
     demo: 'https://dsvendas-lucaslucena.netlify.app/'
+  },
+  {
+    id: 2,
+    image: IMG9,
+    title: 'Sea of Thieves API',
+    github: 'https://github.com/lucaslucenak/rest-api-spring',
+    demo: 'https://api-sot.herokuapp.com/isles/'
   }
 ]
 

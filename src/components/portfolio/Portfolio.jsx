@@ -15,7 +15,7 @@ const data = [
       id: 1,
       image: IMG1,
       title: 'Rest Spring API',
-      github: 'https://github.com/lucaslucenak/api-sea-of-thieves',
+      github: 'https://github.com/lucaslucenak/rest-api-spring',
       demo: 'https://github.com/'
     },
     {
@@ -74,7 +74,7 @@ const dataWithDemo = [
     id: 2,
     image: IMG9,
     title: 'Sea of Thieves API',
-    github: 'https://github.com/lucaslucenak/rest-api-spring',
+    github: 'https://github.com/lucaslucenak/api-sea-of-thieves',
     demo: 'https://api-sot.herokuapp.com/isles/'
   }
 ]

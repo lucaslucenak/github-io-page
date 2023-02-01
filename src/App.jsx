@@ -9,6 +9,7 @@ import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import Professional from './components/professional/Professional'
+import Educational from './components/educational/Educational'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <About />
       <Experience />
       <Professional />
+      <Educational />
       {/* <Services /> */}
       <Portfolio />
       <Testimonials />

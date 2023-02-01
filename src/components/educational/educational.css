@@ -1,10 +1,10 @@
-/* .professional__container {
+/* .educational__container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
 } */
 
-.professional__container > div {
+.educational__container > div {
     background: var(--color-bg-variant);
     padding: 2.4rem 5rem;
     border-radius: 2rem;
@@ -12,58 +12,58 @@
     transition: var(--transition);
 }
 
-.professional__container > div:hover {
+.educational__container > div:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
     cursor: default;
 }
 
-.professional__container > div h3 {
+.educational__container > div h3 {
     text-align: center;
     margin-bottom: 2rem;
     color: var(--color-primary);
 }
 
-.professional__content {
+.educational__details {
+    display: flex;
+    gap: 1rem;
+}
+
+.educational__details-icon {
+    margin-top: 6px;
+    color: var(--color-primary)
+}
+
+.educational__content {
     display: grid;
     grid-template-columns: 1fr;
     row-gap: 2rem;
 }
 
-.professional__details {
-    display: flex;
-    gap: 1rem;
-}
-
-.professional__details-icon {
-    margin-top: 6px;
-    color: var(--color-primary)
-}
-
 /* MEDIA QUERIES FOR MEDIUM DEVICES */
 @media screen and (max-width: 1024px) {
-    .professional__container {
+    .educational__container {
         grid-template-columns: 1fr;
     }
 
-    .professional__container > div {
+    .educational__container > div {
         width: 80%;
         padding: 2rem;
         margin: 0 auto;
     }
 
-    .professional__content {
+    .educational__content {
         padding: 1rem;
     }
 }
 
 /* MEDIA QUERIES FOR SMALL DEVICES */
 @media screen and (max-width: 600px) {
-    .professional__container {
+    .educational__container {
         gap: 1rem;
     }
 
-    .professional__container > div {
+    .educational__container > div {
         width: 100%;
         padding: 2rem 1rem;
     }

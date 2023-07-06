@@ -22,9 +22,9 @@ const Professional = () => {
               <BsPatchCheckFill className='professional__details-icon' />
               <div>
                 <h4>Mereo Tech | Backend Developer</h4>
-                <small className="text-light"><BsCalendarWeek/> DEZ 2022 - ACTUAL</small><br />
+                <small className="text-light"><BsCalendarWeek/> DEZ 2022 - JUN 2023</small><br />
                 <small className="text-light"><BsPatchCheckFill/> Developed functionalites with PHP;</small><br />
-                <small className="text-light"><BsPatchCheckFill/> Provided maintenance support to Laravel and Phalcon Applications;</small><br />
+                <small className="text-light"><BsPatchCheckFill/> Provided maintenance support and developed functionalities to Laravel and Phalcon Applications;</small><br />
                 <small className="text-light"><BsPatchCheckFill/> Worked with MySQL databases;</small><br />
                 <small className="text-light"><BsPatchCheckFill/> Participated the SCRUM agile rites with my teammates;</small><br />
               </div>
